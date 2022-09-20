@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @chanthana01
-- 👀 I’m interested in Java, Go, React
-- 🌱 I’m currently learning Go
+- 🏕 I have been working as a developer for two years.
+- 🛤 I am currently working as a software engineer for one year.
+- 👀 I’m interested in Java, Kotlin, Go, React, Ruby
+- 🌱 I’m currently learning Ruby, Rails
 
 <!---
 chanthana01/chanthana01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
